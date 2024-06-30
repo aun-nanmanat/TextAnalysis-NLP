@@ -18,11 +18,12 @@ Python (Pandas, NLTK, Scikit-learn), R (tidyverse, ggplot2), Glassdoor API, Jupy
 
 - **Clustering Classification:** Revealed key areas of positive and negative feedback for both organizations.
 
-- **Sentiment Analysis:**
++ **Sentiment Analysis:**
   
-- ***Overall Sentiment:*** N26 exhibited higher positive sentiment in compensation and career progression.
+-- ***Overall Sentiment:*** N26 exhibited higher positive sentiment in compensation and career progression.
 
-- ***Work Aspects:***
+-- ***Work Aspects:***
+ 
   Compensation - Higher satisfaction at N26
   
   Collaboration - Positive sentiment towards teamwork at both companies
