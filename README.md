@@ -12,17 +12,6 @@ Analyzed and compared employee sentiment in traditional and digital banking envi
 
 ### Tools: 
 Python (Pandas, NLTK, Scikit-learn), R (tidyverse, ggplot2), Glassdoor API, Jupyter Notebook.
-
-### Key Findings:
-- **Exploratory Data Analysis:** Identified distinct organizational structures and reviewed distributions between Deutsche Bank and N26.
-
-- **Clustering Classification:** Revealed key areas of positive and negative feedback for both organizations.
-
-- **Sentiment Analysis:**
-  
-    -- ***Overall Sentiment:*** N26 exhibited higher positive sentiment in compensation and career progression.
-
-    -- ***Work Aspects:*** **Compensation** - Higher satisfaction at N26, **Collaboration** - Positive sentiment towards teamwork at both companies, **Management and Leadership** - Mixed reviews, with N26 facing more negative sentiment, **Work-Life Balance** - More positive sentiment at Deutsche Bank, **Company Culture** - High satisfaction at both companies, **Career Progression** - More positivity at N26, with mixed feelings at Deutsche Bank.
   
 ### Impact: 
 Provided actionable insights for Deutsche Bank to improve compensation structures and career advancement pathways, aligning with progressive practices observed in FinTech companies like N26.
