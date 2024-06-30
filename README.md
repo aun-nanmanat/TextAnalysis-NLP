@@ -1,4 +1,42 @@
 # Comparative Sentiment Analysis in Traditional vs. Digital Banking: The Case of Deutsche Bank and N26
+## Project Overview
+### Objective: 
+Analyzed and compared employee sentiment in traditional and digital banking environments to understand differences in job satisfaction and organizational culture.
+
+### Methodology:
+- Conducted Exploratory Data Analysis (EDA) to understand review distribution and ratings.
+
+- Employed Topic Modeling and K-means Clustering to identify key themes and group similar sentiments.
+
+- Performed Sentiment Analysis on Glassdoor reviews to assess employee satisfaction across various work aspects.
+
+### Tools: 
+Python (Pandas, NLTK, Scikit-learn), R (tidyverse, ggplot2), Glassdoor API, Jupyter Notebook.
+
+### Key Findings:
+- **Exploratory Data Analysis:** Identified distinct organizational structures and reviewed distributions between Deutsche Bank and N26.
+
+- **Clustering Classification:** Revealed key areas of positive and negative feedback for both organizations.
+
+- **Sentiment Analysis:**
+  
+- ***Overall Sentiment:*** N26 exhibited higher positive sentiment in compensation and career progression.
+
+- ***Work Aspects:***
+  Compensation - Higher satisfaction at N26
+  
+  Collaboration - Positive sentiment towards teamwork at both companies
+
+  Management and Leadership - Mixed reviews, with N26 facing more negative sentiment
+  
+  Work-Life Balance - More positive sentiment at Deutsche Bank
+
+  Company Culture - High satisfaction at both companies
+
+  Career Progression - More positivity at N26, with mixed feelings at Deutsche Bank.
+  
+### Impact: 
+Provided actionable insights for Deutsche Bank to improve compensation structures and career advancement pathways, aligning with progressive practices observed in FinTech companies like N26.
 
 ## Executive Summary
 Germany leads the global FinTech landscape as the fourth-largest market worldwide and the largest within the EU, driven by its robust digital infrastructure (ITA, 2023). Traditional banks and emerging FinTechs exhibit divergent organizational cultures, highlighting the importance of understanding employee sentiment for maintaining a competitive edge. Through systematic exploration, data preprocessing, topic modeling, K-means clustering, and sentiment analysis of Glassdoor reviews, the project, titled “Comparative Sentiment Analysis in Traditional vs. Digital Banking: The Case of Deutsche Bank and N26”, aims to uncover differences in job satisfaction and organizational culture, providing insights into the banking sector's dynamics.
@@ -50,20 +88,32 @@ In summary, my analysis of employee reviews provides clear differences in job sa
 
 ## Limitations
 However, I acknowledge that these findings may not completely represent the experiences of all employees within traditional banks and FinTech companies. Therefore, it is essential to consider the following limitations.
+
 (1)	Bias in Reviews: Glassdoor reviews may be biased, as extreme opinions are more likely to be expressed, potentially skewing the analysis. 
+
 (2)	Temporal Considerations: Employee sentiments can change over time due to various factors. Analyzing reviews at a single point may not capture these variations adequately. 
+
 (3)	Data Quality: Data reliability from Glassdoor reviews varies, and automated sentiment analysis may not always accurately capture nuances.
+
 (4)	Generalizability: Findings from Deutsche Bank and N26 reviews may not apply to all traditional banks or FinTech firms in Germany due to factors like organizational culture and location.
+
 (5)	Limited Scope: Reviews from Glassdoor may not capture all work aspects of the employee experience such as attitudes toward innovation and technology adoption, including diversity and inclusion efforts.
+
 Addressing these limitations will lead to a more comprehensive assessment of the project's constraints and considerations.
 
 ## Outlook
 To conduct a more comprehensive comparative analysis, it is valuable to explore additional methods for further research and to consider the potential applications of the findings.
+
 (1)	 Further Comparative Analysis: Including more traditional banks and FinTech firms in diverse regions or similar market scales can provide a broader perspective on job satisfaction and organizational culture in Germany's banking sector.
+
 (2)	Longitudinal Study: Tracking changes in employee sentiment over time within Deutsche Bank and N26 could reveal trends or patterns in job satisfaction and organizational culture evolution.
+
 (3)	Impact of External Factors: Exploring how regulations, market trends, and technological advancements interact with job satisfaction and organizational culture can enhance the interpretation of findings.
+
 (4)	Employee Retention and Performance: Analyzing the relationship between employee sentiment, retention rates, and performance metrics could provide actionable insights for human resource management.
+
 (5)	Cross-Cultural Analysis: Conducting cross-cultural analyses on job satisfaction between traditional banks and FinTech companies can assess the impact of cultural factors across diverse contexts.
+
 Exploring these methods can provide valuable insights into job satisfaction, organizational culture, and employee sentiment within the banking sector.
 
 ## References
